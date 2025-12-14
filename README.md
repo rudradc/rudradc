@@ -11,9 +11,9 @@ I am an individual with a strong interest in software development and technology
 - 🔍 Developing a deeper understanding of how modern systems and applications function  
 
 ## 🤝 Collaboration & Feedback
-I welcome constructive feedback, suggestions, and guidance.  
-If you notice areas where my code, structure, or approach can be improved, or if you have ideas for new things I should explore or build, I would greatly appreciate your input.  
-I believe thoughtful feedback plays an important role in personal and professional growth.
+- I welcome constructive feedback, suggestions, and guidance.  
+- If you notice areas where my code, structure, or approach can be improved, or if you have ideas for new things I should explore or build, I would greatly appreciate   your input.  
+- I believe thoughtful feedback plays an important role in personal and professional growth.
 
 ## 📬 Contact Information
 - 💻 GitHub: [@rudradc](https://github.com/rudradc)  
